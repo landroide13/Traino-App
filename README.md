@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Register User
 
-Things you may want to cover:
+* Create Exercise Rutines.
 
-* Ruby version
+* Follow the rutines and Progarming it in the calendar.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
+* Follow you progress and check your fat rate and performance.
 
 * Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
